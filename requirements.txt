@@ -1,7 +1,0 @@
-- Python 3.x
-- Bibliotecas necesarias:
-  - `pandas`
-  - `matplotlib`
-  - `tkinter` (incluido en Python por defecto)
-  comandos : pip install pandas matplotlib
-  pip freeze > requirements.txt
